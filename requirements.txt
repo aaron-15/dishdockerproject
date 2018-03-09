@@ -1,0 +1,14 @@
+numpy
+matplotlib
+beautifulsoup4
+bokeh
+pandas
+scikit-learn
+scipy
+seaborn
+geopandas
+rainbowstream
+awscli
+aws-shell
+#geopandas
+#osmnx
