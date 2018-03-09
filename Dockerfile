@@ -28,4 +28,4 @@ RUN git clone git://github.com/Toblerity/Fiona.git
 RUN cd Fiona
 RUN GDAL_CONFIG=/path/to/gdal-config pip install fiona
 
-COPY README.md ./Desktop/README.md 
+COPY ReadThisFile.txt ./Desktop/ReadThisFile.txt
